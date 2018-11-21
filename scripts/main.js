@@ -21,12 +21,7 @@
 
 'use strict';
 
-//Desktop Chrome
-//const applicationServerPublicKey = 'BE96QulLPRtB_Z7yOYOBAwf0z3HbOxQHXcOmdyAWi2yqdImKMwZ4LoVuqWFzvXAQVG8ixzSJNsKZYkCeq5n-lUc';
-//iPhone Chrome 
-//const applicationServerPublicKey = 'BC4sB8AiuZMqrNN9rGk3fx36K6k3grO4CP3pWRro_N5WVH8p4KN1L4KVRdzQ8WdSE1QsAZjxabuc9Vl4Cwwfr1A';
-//iPhone Safari
-const applicationServerPublicKey = 'BM9sMioD7vuw79jK4MwtPeI91OqpLTQxb0iN4jkhfghcxa_90etB2V2ogfvQni7Cq9eRU-Z1muffnRISqt-qSXg';
+const applicationServerPublicKey = 'public key here';
 
 
 
